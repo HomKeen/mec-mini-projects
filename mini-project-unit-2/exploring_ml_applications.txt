@@ -1,0 +1,7 @@
+Applications of ML that I’m interested in:
+1.	Detecting cancer from medical scans, hopefully as good as or better than humans, and at earlier stages.
+2.	Replicating the output of a complex network of biological mammalian neurons. Right now, the best we can do is solving a set of nonlinear differential equations in a discrete manner for each neuron, meaning that it gets very computationally expensive quickly. Can we reduce the workload while retaining accuracy with ML? (this was part of my undergrad research last year)
+3.	Video games, like Pong, BrickBreaker, bullet hell games, Pacman, etc. which require a player to take actions in reaction to things happening on a screen. Also board games like chess, checkers, Go.
+4.	Augmented reality- for example, measuring the length of objects using only a camera and knowledge of the camera’s specs.
+5.	Image recognition & comparison: given a picture of an object, find similar-looking objects on the internet. Useful for finding a product that you see somewhere but don’t know the name of.
+6.	Fraud detection (banking, online transactions, etc.)
