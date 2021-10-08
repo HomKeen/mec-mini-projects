@@ -5,3 +5,4 @@ Applications of ML that I’m interested in:
 4.	Augmented reality- for example, measuring the length of objects using only a camera and knowledge of the camera’s specs.
 5.	Image recognition & comparison: given a picture of an object, find similar-looking objects on the internet. Useful for finding a product that you see somewhere but don’t know the name of.
 6.	Fraud detection (banking, online transactions, etc.)
+7. Analyzing political leaning (liberal, conservative, center) in a news article or piece of text
